@@ -52,28 +52,14 @@ You can view the full wireframe prototype [here](https://miro.com/app/board/uXjV
 
 
 All mockups and userflows are included for viewing below, providing a complete visual understanding of WorkLink’s design and functionality.
+- [Mockups (Mobile & Desktop)](https://drive.google.com/drive/folders/1Iz9y2HvAwbqVuioEWlVwYtl4XFsKmcZI?usp=drive_link)
 
-## Mockups
 
-Below are the visual mockups for the **WorkLink** landing pages across devices.
-
-### Mobile Landing Page
-| Screen 1 | Screen 2 | Screen 3 |
-|-----------|-----------|-----------|
-| ![Mobile 1](./mobile_mockup_1.png) | ![Mobile 2](./mobile_mockup_2.png) | ![Mobile 3](./mobile_mockup_3.png) |
-
-### Desktop Landing Page
-![Desktop Landing Page](./desktop_mockup.png)
 
 ## User Flows
 
 These user flows illustrate how different users navigate and interact with the WorkLink platform.
 
-### Job Seeker Flow
-![Job Seeker Flow](./jobseeker_userflow.jpg)
-
-### Employer Flow
-![Employer Flow](./employer_userflow.jpg)
 
 ## Summary
 WorkLink acts as a **link between African talent and global opportunities**, providing verification, mentorship, and seamless remote work experiences. Our mission is to make unknown talents visible, trustworthy, and globally accessible.
