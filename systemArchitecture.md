@@ -103,44 +103,11 @@ WorkLink is **technically possible and feasible** due to the following reasons:
 - **System Architecture Diagram:** High-level overview of frontend, backend, database, and AI modules  
 - **Database Schema Diagram:** Tables for users, jobs, applications, AI results  
 - **Data Flow Diagram:** Showing request/response between frontend, backend, AI, and database  
-- **Component Interaction Diagram:** For developers to understand module communication  
+- **Component Interaction Diagram:** For developers to understand module communication
 
-# System Architecture Visuals
+Below is a detailed Visuals and Diagram of the System Architecture of WorkLink
 
-This document provides a detailed overview of the **WorkLink system design**, outlining how different components interact to support core platform functions — connecting African professionals to global remote opportunities.
-
----
-
-## High-Level System Architecture
-
-The diagram below shows the general structure of the system, including the frontend, backend, database, and AI integration layers.
-
-![System Architecture Diagram](./system_arch_diagram.jpg)
-
----
-
-## Data Flow Diagram (DFD)
-
-The Data Flow Diagram illustrates how data moves between users, the frontend, backend, AI module, and database systems. It captures both request-response interactions and process flows.
-
-![Data Flow Diagram](./dataflow_diagram.jpg)
-
----
-
-## Database Schema Diagram
-
-The Database Schema Diagram presents the core entities and their relationships, including users, employers, jobs, applications, AI results, activity logs, and system notifications, showcasing how data is structured to support all platform functionalities.
-
-![Database Schema Diagram](./database_schema_diagram.jpg)
-
----
-
-## Component Interaction Diagram
-
-This diagram details how major components communicate with each other — including the user interface, API gateway, AI module, and database service.
-
-![Component Interaction Diagram](./component_interation_diagram.jpg)
-
+- [WorkLink System Architecture & Diagrams](https://drive.google.com/drive/folders/1l_G0JZFtc-oByQr6_H11PRWxTw9MXwrT?usp=drive_link)
 ---
 
 ## Summary
