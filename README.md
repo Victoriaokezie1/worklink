@@ -55,10 +55,10 @@ All mockups and userflows are included for viewing below, providing a complete v
 - [Mockups (Mobile & Desktop)](https://drive.google.com/drive/folders/1Iz9y2HvAwbqVuioEWlVwYtl4XFsKmcZI?usp=drive_link)
 
 
-
 ## User Flows
 
 These user flows illustrate how different users navigate and interact with the WorkLink platform.
+- [User Flows](https://drive.google.com/drive/folders/1reHIfioXpWbg6rTDtuI6snFlBC8utR_V?usp=sharing)
 
 
 ## Summary
