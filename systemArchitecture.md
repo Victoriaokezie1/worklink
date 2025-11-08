@@ -105,8 +105,6 @@ WorkLink is **technically possible and feasible** due to the following reasons:
 - **Data Flow Diagram:** Showing request/response between frontend, backend, AI, and database  
 - **Component Interaction Diagram:** For developers to understand module communication  
 
-These visuals are also placed in the `resources_and_visuals` folder.
-
 # System Architecture Visuals
 
 This document provides a detailed overview of the **WorkLink system design**, outlining how different components interact to support core platform functions — connecting African professionals to global remote opportunities.
@@ -117,7 +115,7 @@ This document provides a detailed overview of the **WorkLink system design**, ou
 
 The diagram below shows the general structure of the system, including the frontend, backend, database, and AI integration layers.
 
-![System Architecture Diagram](./resources_and_visuals/system_arch_diagram/system_arch_diagram.jpg)
+![System Architecture Diagram](./system_arch_diagram.jpg)
 
 ---
 
@@ -125,7 +123,7 @@ The diagram below shows the general structure of the system, including the front
 
 The Data Flow Diagram illustrates how data moves between users, the frontend, backend, AI module, and database systems. It captures both request-response interactions and process flows.
 
-![Data Flow Diagram](./resources_and_visuals/system_arch_diagram/dataflow_diagram.jpg)
+![Data Flow Diagram](./dataflow_diagram.jpg)
 
 ---
 
@@ -133,7 +131,7 @@ The Data Flow Diagram illustrates how data moves between users, the frontend, ba
 
 The Database Schema Diagram presents the core entities and their relationships, including users, employers, jobs, applications, AI results, activity logs, and system notifications, showcasing how data is structured to support all platform functionalities.
 
-![Database Schema Diagram](./resources_and_visuals/system_arch_diagram/database_schema_diagram.jpg)
+![Database Schema Diagram](./database_schema_diagram.jpg)
 
 ---
 
@@ -141,7 +139,7 @@ The Database Schema Diagram presents the core entities and their relationships, 
 
 This diagram details how major components communicate with each other — including the user interface, API gateway, AI module, and database service.
 
-![Component Interaction Diagram](./resources_and_visuals/system_arch_diagram/component_interation_diagram.jpg)
+![Component Interaction Diagram](./component_interation_diagram.jpg)
 
 ---
 
@@ -154,4 +152,5 @@ Key highlights:
 - Secure database communication with authentication and authorization layers  
 - Optimized data flow for performance and scalability  
 - Designed to integrate seamlessly with third-party APIs and remote job networks  
+
 

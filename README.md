@@ -51,7 +51,7 @@ Additionally, we have:
 You can view the full wireframe prototype [here](https://miro.com/app/board/uXjVJtm1B6M=/?share_link_id=887790559828)
 
 
-All mockups and userflows are included in the `resources_and_visuals` folder for viewing, providing a complete visual understanding of WorkLink’s design and functionality.
+All mockups and userflows are included for viewing below, providing a complete visual understanding of WorkLink’s design and functionality.
 
 ## Mockups
 
@@ -60,20 +60,20 @@ Below are the visual mockups for the **WorkLink** landing pages across devices.
 ### Mobile Landing Page
 | Screen 1 | Screen 2 | Screen 3 |
 |-----------|-----------|-----------|
-| ![Mobile 1](./resources_and_visuals/mockups/mobile_mockup_1.png) | ![Mobile 2](./resources_and_visuals/mockups/mobile_mockup_2.png) | ![Mobile 3](./resources_and_visuals/mockups/mobile_mockup_3.png) |
+| ![Mobile 1](./mobile_mockup_1.png) | ![Mobile 2](./mobile_mockup_2.png) | ![Mobile 3](./mobile_mockup_3.png) |
 
 ### Desktop Landing Page
-![Desktop Landing Page](./resources_and_visuals/mockups/desktop_mockup.png)
+![Desktop Landing Page](./desktop_mockup.png)
 
 ## User Flows
 
 These user flows illustrate how different users navigate and interact with the WorkLink platform.
 
 ### Job Seeker Flow
-![Job Seeker Flow](./resources_and_visuals/userflows/jobseeker_userflow.jpg)
+![Job Seeker Flow](./jobseeker_userflow.jpg)
 
 ### Employer Flow
-![Employer Flow](./resources_and_visuals/userflows/employer_userflow.jpg)
+![Employer Flow](./employer_userflow.jpg)
 
 ## Summary
 WorkLink acts as a **link between African talent and global opportunities**, providing verification, mentorship, and seamless remote work experiences. Our mission is to make unknown talents visible, trustworthy, and globally accessible.
